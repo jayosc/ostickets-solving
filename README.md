@@ -16,6 +16,7 @@ This project identifies a common issue in the workplace and solves the problem i
 - Windows 10</b> (21H2)
 
 <h2>Solving the Problem </h2>
+![Screenshot 2025-08-12 at 10 32 46 AM](https://github.com/user-attachments/assets/363db1e1-59e1-42cb-a026-f491cf96f4b3)
 
 <p>
 <img src="![Screenshot 2025-08-12 at 10 32 46 AM](https://github.com/user-attachments/assets/bca33200-82e4-422f-838e-e941a850d8b3)" height="80%" width="80%" />
