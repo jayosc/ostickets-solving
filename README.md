@@ -33,7 +33,6 @@ John Doe is working from home and is accessing his work computer using remote de
 <p>
 John Doe submits his work order request to have his account unlocked so that he can type in his password correctly and get to work.
 </p>
-<br /># ostickets-solving
 
 <p>
 <img src="https://i.imgur.com/Elmq5Kw.jpeg" height="80%" width="80%" alt="3"/>
